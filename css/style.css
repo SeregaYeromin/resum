@@ -66,6 +66,9 @@ body {
     padding: 30px 0px;
     position: relative;
 }
+.contacts {
+    text-decoration: none;
+}
 .contact-border {
     height: 2px;
     background: linear-gradient(to right, #e4ede4 40%, #161616 60%);
