@@ -182,6 +182,7 @@ body {
     color: #706c6c;
     font-family: 'Rubik', sans-serif;
     font-weight: normal;
+    white-space: nowrap;
 }
 .skills-title {
     font-size: 35px;
