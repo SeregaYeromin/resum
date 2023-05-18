@@ -214,6 +214,7 @@ body {
     width: 450px;
 }
 .personal-qualities__title {
+    display: inline;
     font-size: 35px;
     font-weight: 700;
     font-family: 'Rubik', sans-serif;
