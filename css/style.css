@@ -264,12 +264,12 @@ body {
     background: linear-gradient(to right, #e4ede4 40%, #161616 60%);
     width: 800px;
 }
-.courses-point {
+*/.courses-point {
     font-size: 25px;
     color: #706c6c;
     padding: 20px 0px 6px 20px;
     font-family: 'Rubik', sans-serif;
-}
+}/*
 .courses-box {
     display: flex;
     flex-wrap: wrap;
