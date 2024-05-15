@@ -245,7 +245,7 @@ body {
 .education-box {
     display: flex;
     flex-flow: column wrap;
-    gap: 30px;
+    gap: 5px;
 }
 .edu-item {
     width: 700px;
