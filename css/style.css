@@ -231,6 +231,8 @@ body {
     padding: 20px 0px 6px 20px;
     font-family: 'Rubik', sans-serif;
 }
+.ul {
+    margin-left: 20px;
 .education-title {
     font-size: 35px;
     font-weight: 700;
