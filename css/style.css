@@ -59,7 +59,7 @@ body {
     width: 850px;
 }
 .personal-info {
-    width: 450px;
+    width: 100%;
 }
 .body-box {
     display: flex;
