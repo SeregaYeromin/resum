@@ -85,7 +85,7 @@ body {
     left: 825px;
     border: 1px solid #1c1c1c;
     background-color: black;
-    height: 1800px;
+    height: 1760px;
 }
 .phone-box {
     display: flex;
@@ -223,7 +223,7 @@ body {
     margin-top: 20px;   
 }
 .work-exp {
-    margin-top: 12px;
+    margin-top: 0px;
 }
 .exp-item {
     font-size: 25px;
