@@ -238,7 +238,7 @@ body {
     font-family: 'Rubik', sans-serif;
 }
 .exp-item1 {
-    padding: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 60px;
 }
 li {
     font-size: 21px;
@@ -265,13 +265,13 @@ li {
     width: 700px;
     font-size: 25px;
     color: #706c6c;
-    padding: 20px 0px 6px 20px;
+    padding: 20px 0px 6px 10px;
     font-family: 'Rubik', sans-serif;
 }
 .edu-item1 {
     font-size: 21px;
     color: #706c6c;
-    padding: 10px 0px 2px 30px;
+    padding: 10px 0px 2px 25px;
     font-family: 'Rubik', sans-serif;
 }
 .courses-title {
