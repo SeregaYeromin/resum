@@ -169,7 +169,7 @@ body {
 .lang-name {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 2px;
     padding: 20px 0px 6px 20px;
 }
 .name-title {
