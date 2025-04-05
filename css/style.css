@@ -264,7 +264,10 @@ li {
 #edu_box {
     display: flex; 
     gap: 5px;
-}    
+}
+#web {
+    border: solid 1px rgb(83, 80, 89);
+}
 .edu-item {
     font-size: 25px;
     color: #706c6c;
