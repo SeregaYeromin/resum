@@ -263,7 +263,8 @@ li {
 }
 #edu_box {
     display: flex; 
-    
+    gap: 5px;
+}    
 .edu-item {
     font-size: 25px;
     color: #706c6c;
