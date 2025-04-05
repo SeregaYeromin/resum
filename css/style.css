@@ -261,7 +261,8 @@ li {
     flex-flow: column wrap;
     gap: 5px;
 }
-#edu {
+#edu_box {
+    display: flex; 
     
 .edu-item {
     font-size: 25px;
