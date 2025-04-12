@@ -302,6 +302,9 @@ li {
     gap: 20px;
     padding: 20px 0px 6px 20px;
 }
+.courses-item img {
+    height: 100%;
+}
 .project-title {
     font-size: 35px;
     font-weight: 700;
